@@ -3880,3 +3880,1017 @@ JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common
 JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
 JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
 1677571385097	Marionette	INFO	Stopped listening on port 37861
+1677830139064	geckodriver	INFO	Listening on 127.0.0.1:49329
+1677830139576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33571" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePgFGuj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677830140512	Marionette	INFO	Marionette enabled
+1677830140520	Marionette	INFO	Listening on port 33959
+Read port: 33959
+WebDriver BiDi listening on ws://127.0.0.1:33571
+1677830140669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePgFGuj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33571/devtools/browser/66574493-da8e-45ee-86fd-cbb0e0eac5d0
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1677830225143	geckodriver	INFO	Listening on 127.0.0.1:37219
+1677830225150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletSaXCw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677830226070	Marionette	INFO	Marionette enabled
+1677830226076	Marionette	INFO	Listening on port 41277
+Read port: 41277
+WebDriver BiDi listening on ws://127.0.0.1:51057
+1677830226194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletSaXCw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51057/devtools/browser/b27e5ef9-a74a-404a-a09b-5068fc7e70a6
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+1677830239029	Marionette	INFO	Stopped listening on port 33959
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1677830284889	geckodriver	INFO	Listening on 127.0.0.1:43115
+1677830285403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileO1kQ7H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677830286377	Marionette	INFO	Marionette enabled
+1677830286382	Marionette	INFO	Listening on port 45601
+Read port: 45601
+WebDriver BiDi listening on ws://127.0.0.1:51839
+1677830286508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO1kQ7H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51839/devtools/browser/fd36b8cb-4e20-43e1-826d-fbab0af6a4ab
+1677830288989	Marionette	INFO	Stopped listening on port 41277
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1677830346495	Marionette	INFO	Stopped listening on port 45601
+1677830350039	geckodriver	INFO	Listening on 127.0.0.1:35323
+1677830350044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFEbppr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677830350855	Marionette	INFO	Marionette enabled
+1677830350862	Marionette	INFO	Listening on port 37665
+WebDriver BiDi listening on ws://127.0.0.1:39657
+Read port: 37665
+1677830350989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFEbppr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39657/devtools/browser/46f01293-cdc3-4776-80ad-c423d4e0207d
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1677830378053	Marionette	INFO	Stopped listening on port 37665
+1677837139912	geckodriver	INFO	Listening on 127.0.0.1:48835
+1677837140418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemwjSSC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677837141325	Marionette	INFO	Marionette enabled
+1677837141330	Marionette	INFO	Listening on port 42809
+Read port: 42809
+WebDriver BiDi listening on ws://127.0.0.1:51257
+1677837141488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemwjSSC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51257/devtools/browser/eab598c7-c9c3-4967-a737-b7a609ae7cfd
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1677837389494	Marionette	INFO	Stopped listening on port 42809
+1677837393680	geckodriver	INFO	Listening on 127.0.0.1:41985
+1677837393693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBIvjuq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677837394634	Marionette	INFO	Marionette enabled
+1677837394642	Marionette	INFO	Listening on port 40069
+Read port: 40069
+WebDriver BiDi listening on ws://127.0.0.1:43907
+1677837394792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBIvjuq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43907/devtools/browser/d132c317-2051-4a5f-9590-bd900658101c
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1677837715858	Marionette	INFO	Stopped listening on port 40069
+1677837719065	geckodriver	INFO	Listening on 127.0.0.1:59597
+1677837719073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4E2Vxt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1677837719991	Marionette	INFO	Marionette enabled
+1677837719997	Marionette	INFO	Listening on port 33413
+Read port: 33413
+WebDriver BiDi listening on ws://127.0.0.1:40869
+1677837720136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4E2Vxt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40869/devtools/browser/32d230fa-4430-4fb3-9e46-e24872a92821
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1677837884460	Marionette	INFO	Stopped listening on port 33413
+1678079536391	geckodriver	INFO	Listening on 127.0.0.1:43289
+1678079536903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem3CTxK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678079537896	Marionette	INFO	Marionette enabled
+1678079537902	Marionette	INFO	Listening on port 33285
+Read port: 33285
+WebDriver BiDi listening on ws://127.0.0.1:41037
+1678079538055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem3CTxK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41037/devtools/browser/cdcf771c-2eda-406d-af97-2764ddf019bd
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678079693864	Marionette	INFO	Stopped listening on port 33285
+1678079720633	geckodriver	INFO	Listening on 127.0.0.1:44627
+1678079720640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMLbXgK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678079721578	Marionette	INFO	Marionette enabled
+1678079721585	Marionette	INFO	Listening on port 39973
+Read port: 39973
+WebDriver BiDi listening on ws://127.0.0.1:44409
+1678079721739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMLbXgK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44409/devtools/browser/ce72565b-3499-46ff-9cd0-f35bd6a31f2a
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678080911666	geckodriver	INFO	Listening on 127.0.0.1:56467
+1678080912170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJrgucV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678080913155	Marionette	INFO	Marionette enabled
+1678080913162	Marionette	INFO	Listening on port 42765
+Read port: 42765
+WebDriver BiDi listening on ws://127.0.0.1:54055
+1678080913300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJrgucV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54055/devtools/browser/21400fed-3212-4b68-8855-c4fdc59ff91c
+1678080916564	Marionette	INFO	Stopped listening on port 39973
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678081029948	geckodriver	INFO	Listening on 127.0.0.1:55525
+1678081029953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerePmXg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678081030816	Marionette	INFO	Marionette enabled
+1678081030822	Marionette	INFO	Listening on port 40471
+Read port: 40471
+WebDriver BiDi listening on ws://127.0.0.1:43487
+1678081030952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerePmXg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43487/devtools/browser/a290b481-7024-46b2-a1b2-dd2ae740dd27
+1678081034734	Marionette	INFO	Stopped listening on port 42765
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678081112749	geckodriver	INFO	Listening on 127.0.0.1:37175
+1678081112759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevwpreU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678081113574	Marionette	INFO	Marionette enabled
+1678081113578	Marionette	INFO	Listening on port 34731
+WebDriver BiDi listening on ws://127.0.0.1:37641
+Read port: 34731
+1678081113702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevwpreU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37641/devtools/browser/c9a986c3-867d-4d21-b334-ef7a25c1c225
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1678081159551	geckodriver	INFO	Listening on 127.0.0.1:52845
+1678081160062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile64R2J4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678081161020	Marionette	INFO	Marionette enabled
+1678081161028	Marionette	INFO	Listening on port 45257
+Read port: 45257
+WebDriver BiDi listening on ws://127.0.0.1:59663
+1678081161151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile64R2J4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59663/devtools/browser/71ef8a94-e0c7-4dfc-b955-452f55e9adcf
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1678081429043	geckodriver	INFO	Listening on 127.0.0.1:39747
+1678081429049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile48BiaZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678081429958	Marionette	INFO	Marionette enabled
+1678081429964	Marionette	INFO	Listening on port 36557
+Read port: 36557
+WebDriver BiDi listening on ws://127.0.0.1:39767
+1678081430118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile48BiaZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39767/devtools/browser/a7954993-c1af-4d87-b3f8-a060e1d997b2
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1678081582749	geckodriver	INFO	Listening on 127.0.0.1:52493
+1678081583261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4csQ5P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678081584206	Marionette	INFO	Marionette enabled
+1678081584212	Marionette	INFO	Listening on port 33805
+Read port: 33805
+WebDriver BiDi listening on ws://127.0.0.1:38439
+1678081584350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4csQ5P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38439/devtools/browser/bddc74a4-e3b4-4329-93fb-b98df0875db7
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1678081750147	geckodriver	INFO	Listening on 127.0.0.1:49783
+1678081750658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUKnylg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678081751651	Marionette	INFO	Marionette enabled
+1678081751658	Marionette	INFO	Listening on port 41883
+Read port: 41883
+WebDriver BiDi listening on ws://127.0.0.1:56739
+1678081751781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUKnylg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56739/devtools/browser/8d42ed25-d193-4e14-811c-572423269767
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1678081869536	geckodriver	INFO	Listening on 127.0.0.1:33875
+1678081869548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRLW5xj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678081870486	Marionette	INFO	Marionette enabled
+1678081870493	Marionette	INFO	Listening on port 37195
+Read port: 37195
+WebDriver BiDi listening on ws://127.0.0.1:54443
+1678081870615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRLW5xj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54443/devtools/browser/6182a94a-94e8-4cb1-a419-93c6fcec3867
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1678082005506	geckodriver	INFO	Listening on 127.0.0.1:60811
+1678082006017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoM6EWu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678082006976	Marionette	INFO	Marionette enabled
+1678082006983	Marionette	INFO	Listening on port 45769
+Read port: 45769
+WebDriver BiDi listening on ws://127.0.0.1:56871
+1678082007102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoM6EWu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56871/devtools/browser/b6b38635-7d5b-49c8-9b82-43ed36d04f2a
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1678085005856	Marionette	INFO	Stopped listening on port 45769
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 58760, IPC I/O Parent] WARNING: process 59399 exited on signal 9: file /build/firefox-jjwe4i/firefox-110.0.1+build2/ipc/chromium/src/base/process_util_posix.cc:256
+[Parent 58760, IPC I/O Parent] WARNING: process 59394 exited on signal 9: file /build/firefox-jjwe4i/firefox-110.0.1+build2/ipc/chromium/src/base/process_util_posix.cc:256
+[Parent 58760, IPC I/O Parent] WARNING: process 59444 exited on signal 9: file /build/firefox-jjwe4i/firefox-110.0.1+build2/ipc/chromium/src/base/process_util_posix.cc:256
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678085974319	Marionette	INFO	Stopped listening on port 40471
+1678085978323	Marionette	INFO	Stopped listening on port 45257
+1678252836578	geckodriver	INFO	Listening on 127.0.0.1:59781
+1678252837085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJuOmdA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678252837977	Marionette	INFO	Marionette enabled
+1678252837982	Marionette	INFO	Listening on port 42635
+Read port: 42635
+WebDriver BiDi listening on ws://127.0.0.1:43099
+1678252838101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJuOmdA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43099/devtools/browser/4a618e95-6882-46f0-8699-51a7f0492e87
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+1678252862863	Marionette	INFO	Stopped listening on port 42635
+JavaScript error: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/jquery-3.0.0.js, line 7289: NS_ERROR_NOT_INITIALIZED: 
+1678253290784	geckodriver	INFO	Listening on 127.0.0.1:46437
+1678253290789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5oH7rP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678253291611	Marionette	INFO	Marionette enabled
+1678253291616	Marionette	INFO	Listening on port 37009
+Read port: 37009
+WebDriver BiDi listening on ws://127.0.0.1:34307
+1678253291744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5oH7rP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34307/devtools/browser/bc6eb5be-4146-49a7-bf89-e0d266e57573
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+1678253295030	Marionette	INFO	Stopped listening on port 37009
+1678253314986	geckodriver	INFO	Listening on 127.0.0.1:41305
+1678253315488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33863" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile40H68v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678253316319	Marionette	INFO	Marionette enabled
+1678253316323	Marionette	INFO	Listening on port 32939
+Read port: 32939
+WebDriver BiDi listening on ws://127.0.0.1:33863
+1678253316444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile40H68v/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33863/devtools/browser/e8e5a815-6542-47a4-9a43-dca9ca65f74c
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+1678253345292	Marionette	INFO	Stopped listening on port 32939
+1678253359310	geckodriver	INFO	Listening on 127.0.0.1:52209
+1678253359818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef5b0xP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678253360620	Marionette	INFO	Marionette enabled
+1678253360624	Marionette	INFO	Listening on port 38749
+WebDriver BiDi listening on ws://127.0.0.1:56441
+Read port: 38749
+1678253360874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef5b0xP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56441/devtools/browser/b6ea37f8-4cc8-4938-acb0-30723b7764c7
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678253400103	Marionette	INFO	Stopped listening on port 38749
+1678254055099	geckodriver	INFO	Listening on 127.0.0.1:53373
+1678254055106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKQxnGD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678254055938	Marionette	INFO	Marionette enabled
+1678254055944	Marionette	INFO	Listening on port 42049
+Read port: 42049
+WebDriver BiDi listening on ws://127.0.0.1:36177
+1678254056068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKQxnGD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36177/devtools/browser/e73ecf85-0301-4fee-80c7-abbb8a691841
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678254088259	Marionette	INFO	Stopped listening on port 42049
+1678254103178	geckodriver	INFO	Listening on 127.0.0.1:54153
+1678254103182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileif1vhA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678254104091	Marionette	INFO	Marionette enabled
+1678254104096	Marionette	INFO	Listening on port 36903
+Read port: 36903
+WebDriver BiDi listening on ws://127.0.0.1:58303
+1678254104241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileif1vhA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58303/devtools/browser/4cce8771-491e-490f-9ed4-471ed4b061a4
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678254135029	Marionette	INFO	Stopped listening on port 36903
+1678254544359	geckodriver	INFO	Listening on 127.0.0.1:39339
+1678254544367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLwGMpq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678254545178	Marionette	INFO	Marionette enabled
+1678254545182	Marionette	INFO	Listening on port 46839
+WebDriver BiDi listening on ws://127.0.0.1:39427
+Read port: 46839
+1678254545402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLwGMpq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39427/devtools/browser/35027afc-f59b-4b2c-b0be-b8b731de5d0e
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678254578013	Marionette	INFO	Stopped listening on port 46839
+1678254643826	geckodriver	INFO	Listening on 127.0.0.1:36189
+1678254643831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletKPKEh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678254644624	Marionette	INFO	Marionette enabled
+1678254644628	Marionette	INFO	Listening on port 41215
+Read port: 41215
+WebDriver BiDi listening on ws://127.0.0.1:44835
+1678254644738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletKPKEh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44835/devtools/browser/0081d156-1391-45a1-b976-f95f3faf88aa
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678254676577	Marionette	INFO	Stopped listening on port 41215
+1678254784149	geckodriver	INFO	Listening on 127.0.0.1:40823
+1678254784157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6x9LcM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678254784981	Marionette	INFO	Marionette enabled
+1678254784985	Marionette	INFO	Listening on port 45837
+Read port: 45837
+WebDriver BiDi listening on ws://127.0.0.1:38459
+1678254785107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6x9LcM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38459/devtools/browser/999741a0-1cf3-428c-91c3-3f294b8dfbf7
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+1678254796817	Marionette	INFO	Stopped listening on port 45837
+1678254798682	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1678254801053	geckodriver	INFO	Listening on 127.0.0.1:56337
+1678254801058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesjowRG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678254801861	Marionette	INFO	Marionette enabled
+1678254801865	Marionette	INFO	Listening on port 44067
+WebDriver BiDi listening on ws://127.0.0.1:37273
+Read port: 44067
+1678254802116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesjowRG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37273/devtools/browser/0b207b7e-934f-4c77-a9a4-43c4dbd127e2
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678254842032	Marionette	INFO	Stopped listening on port 44067
+1678254864161	geckodriver	INFO	Listening on 127.0.0.1:51763
+1678254864165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41481" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLZn39P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678254864937	Marionette	INFO	Marionette enabled
+1678254864941	Marionette	INFO	Listening on port 37133
+Read port: 37133
+WebDriver BiDi listening on ws://127.0.0.1:41481
+1678254865050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLZn39P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41481/devtools/browser/0636cb62-c683-4892-946a-20e4fa725325
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678254905755	Marionette	INFO	Stopped listening on port 37133
+1678280356168	geckodriver	INFO	Listening on 127.0.0.1:57465
+1678280356198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZ25Ra3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678280366342	Marionette	INFO	Marionette enabled
+1678280366354	Marionette	INFO	Listening on port 46039
+Read port: 46039
+WebDriver BiDi listening on ws://127.0.0.1:44711
+1678280366616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ25Ra3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44711/devtools/browser/a687f208-d859-4ae6-a38c-f2db48e9e22c
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+JavaScript warning: https://app3.factohr.com/extjs/ext-all-js/ext.axd?v=31229, line 18: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript error: https://app3.factohr.com/infolitz/DefaultNew.aspx, line 3011: TypeError: userName is undefined
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/vspl.introjs.js?v=211D72EAED054E11A60E616ED66455B2, line 260: unreachable code after return statement
+1678280408367	Marionette	INFO	Stopped listening on port 46039
+1678280478259	geckodriver	INFO	Listening on 127.0.0.1:36689
+1678280478267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerU6dvC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678280479201	Marionette	INFO	Marionette enabled
+1678280479205	Marionette	INFO	Listening on port 40861
+Read port: 40861
+WebDriver BiDi listening on ws://127.0.0.1:58521
+1678280479319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerU6dvC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58521/devtools/browser/8bbff203-0dbf-4947-90c4-d82f17261afe
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
+1678280910681	Marionette	INFO	Stopped listening on port 40861
+1678280915331	geckodriver	INFO	Listening on 127.0.0.1:40607
+1678280915835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTmahfq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678280916698	Marionette	INFO	Marionette enabled
+1678280916703	Marionette	INFO	Listening on port 44457
+Read port: 44457
+WebDriver BiDi listening on ws://127.0.0.1:43185
+1678280916821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTmahfq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43185/devtools/browser/40af135b-5f43-412b-a628-3389aefcfbf6
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Scripts/vspl.util.js, line 309: unreachable code after return statement
+JavaScript warning: https://appfactohrcom2022-1c175.kxcdn.com//Content/js/common-ui.js?v=D7B89C76E8CBA5615B177EAF3378FB36, line 351: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app3.factohr.com."
